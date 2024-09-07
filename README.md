@@ -62,11 +62,12 @@ Once the installation and setup are complete, run the following command to launc
 python login.py
 ```
 
-The Employee Management System GUI will open, allowing you to manage employee records.
+Enter the username and password which you set in the login.py.Once the login is successful,The Employee Management System GUI will open, allowing you to manage employee records.
 
 ## Screenshots
 
 ![Screenshot 2024-09-07 191217](https://github.com/user-attachments/assets/c0905298-9617-489c-97d3-24e3fbc6bdec)
+
 
 
 ![Screenshot 2024-09-07 190956](https://github.com/user-attachments/assets/9647a307-3635-4e02-948f-db381347e601)
